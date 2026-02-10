@@ -7,7 +7,7 @@ Data Engineer / Product Analytics focused on building SQL datasets, ETL pipeline
 📊 Interests: Product metrics, experimentation, and data infrastructure
 
 Currently building data engineering projects inspired by real product analytics problems.
-## Hi there 👋
+
 
 <!--
 **shreysoni-analytics/shreysoni-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
