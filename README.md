@@ -1,16 +1,13 @@
 ## 👋 Hi, I’m Shrey Soni
 
-Data Engineer / Product Analytics focused on building SQL datasets, ETL pipelines, and analytics dashboards that drive product decisions.
+Data Engineer / Product Analytics focused on building SQL datasets, ETL pipelines, and analytics dashboards that support product decision-making at scale.
 
 🎓 MS in Business Analytics & AI — Johns Hopkins University  
-💻 Skills: SQL, Python, Data Modeling, ETL, Tableau  
-📊 Interests: Product metrics, experimentation, and data infrastructure
+💻 Core Skills: SQL, Python, Data Modeling, ETL, Tableau  
+📊 Focus Areas: Product metrics, experimentation, and data infrastructure
 
-Currently building data engineering projects inspired by real product analytics problems.
-## Example Use Cases
-- Measure DAU/WAU to track engagement trends
-- Analyze cohort-based retention to evaluate product stickiness
-- Support product decision-making with analytics-ready datasets
+I’m currently building data engineering projects inspired by real-world product analytics problems.
+
 
 
 
