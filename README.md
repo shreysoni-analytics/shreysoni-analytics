@@ -7,6 +7,11 @@ Data Engineer / Product Analytics focused on building SQL datasets, ETL pipeline
 📊 Interests: Product metrics, experimentation, and data infrastructure
 
 Currently building data engineering projects inspired by real product analytics problems.
+## Example Use Cases
+- Measure DAU/WAU to track engagement trends
+- Analyze cohort-based retention to evaluate product stickiness
+- Support product decision-making with analytics-ready datasets
+
 
 
 <!--
